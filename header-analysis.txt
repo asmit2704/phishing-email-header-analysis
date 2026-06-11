@@ -1,0 +1,23 @@
+Message ID:
+[CAM1mmN929pNTiv0cp8FO5yh8OKwjMk_0rw3ZXJj3X2mhSWgq4A@mail.gmail.com](mailto:CAM1mmN929pNTiv0cp8FO5yh8OKwjMk_0rw3ZXJj3X2mhSWgq4A@mail.gmail.com)
+
+Sender:
+[asmitpatilpvt2005@gmail.com](mailto:asmitpatilpvt2005@gmail.com)
+
+Recipient:
+[asmitupatil2005@gmail.com](mailto:asmitupatil2005@gmail.com)
+
+Subject:
+Urgent Account Verification Required
+
+Sender IP:
+209.85.220.41
+
+SPF:
+PASS
+
+DKIM:
+PASS
+
+DMARC:
+PASS
